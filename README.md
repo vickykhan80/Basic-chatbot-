@@ -1,10 +1,9 @@
-Chatbot
-
-Overview
+# chatbot
+## Overview
 
 This project is a simple rule-based chatbot implemented in Python. The chatbot can respond to various user inputs based on predefined patterns and responses, making it capable of engaging in basic conversation.
 
-Features
+## Features
 
 Recognizes common greetings and responds appropriately.
 
@@ -20,7 +19,7 @@ Provides a humorous response to jokes.
 
 Informs users about its limitations regarding live weather updates.
 
-Requirements
+## Requirements
 
 Python 3.x
 
@@ -53,7 +52,7 @@ import nltk
 
 nltk.download('punkt')
 
-Usage
+ ## Usage
 
 Run the chatbot script:
 bash
@@ -66,11 +65,7 @@ Start interacting with the chatbot by typing your messages. The chatbot will res
 
 To exit the chatbot, type "exit", "bye", or "quit".
 
-Example Interaction
-
-makefile
-
-Copy code
+## Example Interaction
 
 You: Hello
 
@@ -84,14 +79,17 @@ You: Tell me a joke
 
 Chatbot: Why did the scarecrow win an award? Because he was outstanding in his field!
 
-Contributing
+## Contributing
 
 Contributions are welcome! If you'd like to add more features or improve the chatbot, feel free to fork the repository and submit a pull request.
 
-License
+## License
 
 This project is open-source and available under the MIT License.
 
-Author
+## Author
 
-Developed by Vicky Khan.
+Developed by **Vicky Khan**.
+
+
+
