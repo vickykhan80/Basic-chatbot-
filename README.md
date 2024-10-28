@@ -25,28 +25,20 @@ Python 3.x
 
 NLTK (Natural Language Toolkit) library
 
-Installation
+## Installation
 
 Clone the repository:
-bash
-
-Copy code
 
 git clone https://github.com/vickykhan80/chatbot.git
 
 cd chatbot
 
 Install NLTK: You can install the NLTK library using pip:
-bash
-
-Copy code
 
 pip install nltk
 
 Download NLTK resources (if needed): Open a Python shell and run the following commands to download the necessary NLTK resources:
 python
-
-Copy code
 
 import nltk
 
@@ -55,9 +47,6 @@ nltk.download('punkt')
  ## Usage
 
 Run the chatbot script:
-bash
-
-Copy code
 
 python chatbot.py
 
@@ -70,10 +59,6 @@ To exit the chatbot, type "exit", "bye", or "quit".
 You: Hello
 
 Chatbot: Hi! How can I help you today?
-
-vbnet
-
-Copy code
 
 You: Tell me a joke
 
