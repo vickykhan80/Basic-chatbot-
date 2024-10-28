@@ -1,4 +1,4 @@
-<span style="color: red;"> This text is red </span>
+# chatbot
 ## Overview
 
 This project is a simple rule-based chatbot implemented in Python. The chatbot can respond to various user inputs based on predefined patterns and responses, making it capable of engaging in basic conversation.
