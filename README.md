@@ -1,4 +1,4 @@
-# chatbot
+<span style="color: red;"> This text is red </span>
 ## Overview
 
 This project is a simple rule-based chatbot implemented in Python. The chatbot can respond to various user inputs based on predefined patterns and responses, making it capable of engaging in basic conversation.
@@ -27,7 +27,11 @@ NLTK (Natural Language Toolkit) library
 
 ## Installation
 
-Clone the repository:
+apt update && apt upgrade -y
+
+ pkg install git -y
+
+ pkg install python3 -y
 
 git clone https://github.com/vickykhan80/chatbot.git
 
